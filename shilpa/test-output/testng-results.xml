@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94" started-at="2019-06-14T18:08:15Z" finished-at="2019-06-14T18:08:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94" started-at="2019-06-14T18:08:15Z" finished-at="2019-06-14T18:08:15Z">
+      <class name="com.shilpa.ShilpaApplicationTests">
+        <test-method status="PASS" signature="contextLoads()[pri:0, instance:com.shilpa.ShilpaApplicationTests@1a968a59]" name="contextLoads" duration-ms="38" started-at="2019-06-14T18:08:15Z" finished-at="2019-06-14T18:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.shilpa.ShilpaApplicationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
